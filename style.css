@@ -1,0 +1,25 @@
+body
+{
+	width: 100vw;
+	height: 100vh;
+	background-color:black;
+	color: white;
+}
+
+.container
+{
+	flex: 4;
+}
+
+.novel-data
+{
+	
+	border: 3px solid red;
+	border-radius: 2px;
+
+}
+
+.buttons:hover
+{
+ border: 2px solid blue;
+}
